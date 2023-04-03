@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shuqike&column=7)](https://github.com/shuqike)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
