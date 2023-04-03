@@ -3,6 +3,7 @@
 
 ### Languages
 
+![Julia](https://img.shields.io/badge/-Julia-000?&logo=Julia)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
