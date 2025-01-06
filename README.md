@@ -1,5 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shuqike&column=7)](https://github.com/shuqike)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shuqike&column=5)](https://github.com/shuqike)
 
 ### Languages
 
