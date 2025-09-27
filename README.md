@@ -1,4 +1,4 @@
-I am an exegete.
+I am an exegete. My research explores how a single core insight takes shape in different forms across disciplines such as literacy, history, philosophy, medicine, statistics, and machine learning.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shuqike&column=9)](https://github.com/shuqike)
 
