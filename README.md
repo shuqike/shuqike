@@ -1,5 +1,3 @@
-I am an exegete. My research explores how a single core insight takes shape in different forms across disciplines.
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=shuqike&column=9)](https://github.com/shuqike)
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
